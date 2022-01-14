@@ -1,6 +1,9 @@
 This repository contains the code written for the Rihal date engineering challenge
+
 The entirety of said code was written by me: Mohammed Ghalib Al-Hosni, an RGOTC student, in order to apply for the work experience opportunity. 
+
 The code was written with the python programming language while using pycharm as the IDE.
+
 The code itself can be found in the Rihal data engineering challenge.py file that is included in the repository
 
 Instructions:
