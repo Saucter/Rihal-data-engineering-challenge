@@ -1,6 +1,7 @@
-This repositories contains the code written for the Rihal date engineering challenge
-Said code was written by Mohammed Ghalib Al-Hosni
+This repository contains the code written for the Rihal date engineering challenge
+The entirety of said code was written by me: Mohammed Ghalib Al-Hosni, an RGOTC student, in order to apply for the work experience opportunity. 
 The code was written with the python programming language while using pycharm as the IDE.
+The code itself can be found in the Rihal data engineering challenge.py file that is included in the repository
 
 Instructions:
 The language utilized for the soltution was Python 3.9
@@ -14,9 +15,12 @@ For the code to function properly the following libraries would have to be insta
 All of the aforementioned libraries could be installed immediately using the (pip install "name") command for the exception of pytesseract, which would initially have to be downloaded from git-hub page containing it: https://github.com/UB-Mannheim/tesseract/wiki (Installation steps are included)
 
 As staeted, all libraries would have to be initally installed using the terminal command (pip install "name")
-pip list:
 
+pip list:
 * pip install DateTime
 * pip install opencv-python
-* pip install 
+* pip install tesseract
+* pip install pytesseract
 
+Methodology:
+The methodology and thought process behind each line that has been written are shown next to the lines of in the code itself using comments (format: line #comment)
