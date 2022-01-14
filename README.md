@@ -27,4 +27,5 @@ pip list:
 * (Regex is a standard library, meaning it doesn't have to be installed as it should already be built into the language)
 
 Methodology:
+
 The methodology and thought process behind each line that has been written are shown next to the lines of in the code itself using comments (format: line #comment)
