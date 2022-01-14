@@ -24,6 +24,7 @@ pip list:
 * pip install opencv-python
 * pip install tesseract
 * pip install pytesseract
+* (Regex is a built in library, meaning it doesn't have to be installed)
 
 Methodology:
 The methodology and thought process behind each line that has been written are shown next to the lines of in the code itself using comments (format: line #comment)
