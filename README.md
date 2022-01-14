@@ -6,6 +6,7 @@ The code was written with the python programming language while using pycharm as
 
 The code itself can be found in the Rihal data engineering challenge.py file that is included in the repository
 
+
 Instructions:
 
 For the code to function properly the following libraries would have to be installed: 
@@ -25,6 +26,7 @@ pip list:
 * pip install tesseract
 * pip install pytesseract
 * (Regex is a standard library, meaning it doesn't have to be installed as it should already be built into the language)
+
 
 Methodology:
 
