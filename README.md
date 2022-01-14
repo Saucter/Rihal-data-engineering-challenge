@@ -1,4 +1,4 @@
-This repository contains the code written for the Rihal date engineering challenge
+This repository contains the code written for the Rihal data engineering challenge
 
 The entirety of said code was written by me: Mohammed Ghalib Al-Hosni, an RGOTC student, in order to apply for the work experience opportunity. 
 
