@@ -17,7 +17,7 @@ For the code to function properly the following libraries would have to be insta
 
 All of the aforementioned libraries could be installed immediately using the (pip install "name") command for the exception of pytesseract, which would initially have to be downloaded from git-hub page containing it: https://github.com/UB-Mannheim/tesseract/wiki (Installation steps are included)
 
-As staeted, all libraries would have to be initally installed using the terminal command (pip install "name")
+As stated, all libraries would have to be initally installed using the terminal command (pip install "name")
 
 pip list:
 * pip install DateTime
