@@ -7,7 +7,7 @@ The code was written with the python programming language while using pycharm as
 The code itself can be found in the Rihal data engineering challenge.py file that is included in the repository
 
 Instructions:
-The language utilized for the soltution was Python 3.9
+
 For the code to function properly the following libraries would have to be installed: 
 
 * regex (import re)
